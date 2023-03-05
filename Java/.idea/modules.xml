@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch-Case/Switch-Case.iml" filepath="$PROJECT_DIR$/Switch-Case/Switch-Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditions-loops/conditions-loops.iml" filepath="$PROJECT_DIR$/conditions-loops/conditions-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first_program/first_program.iml" filepath="$PROJECT_DIR$/first_program/first_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+    </modules>
+  </component>
+</project>

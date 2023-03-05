@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4b21146-6bb7-4100-a872-435c6ac5dad2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/first_program/first_program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/Switch-Case.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch-Case/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/conditions-loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/assignment2/BasicPrograms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/assignment2/IntermediateProg/ArmstrongNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/assignment2/IntermediateProg/Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/assignment2/IntermediateProg/factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/CalculatorProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/Conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/CountingOcuurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/Fibo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/Largest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/ReverseNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/out/production/conditions-loops/com/shahiyan/caseCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/assignment2/BasicPrograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/assignment2/IntermediateProg/ArmstrongNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/assignment2/IntermediateProg/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/assignment2/IntermediateProg/factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/CalculatorProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/Conditionals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/CountingOcuurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/Fibo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/Largest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/ReverseNums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../conditions-loops/src/com/shahiyan/caseCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_program" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MagJFR5OwFJkhhrdFV7Aa1Lbl5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/shahiyankhan/IdeaProjects/Java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b21146-6bb7-4100-a872-435c6ac5dad2" name="Changes" comment="" />
+      <created>1678011034967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678011034967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
