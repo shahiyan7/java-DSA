@@ -1,8 +1,15 @@
 package Problems.com;
 
+import java.util.Scanner;
+
 public class MaximumValue {
     public static void main(String[] args) {
-        int[] arr ={1,55,78,3,8};
+        Scanner in=new Scanner(System.in);
+        int[] arr =new int[5];
+        System.out.println("Enter the element of array");
+        for (int i = 0; i < arr.length; i++) {
+            arr[i]=in.nextInt();
+        }
        int maximum= Max(arr);
         System.out.println(maximum);
     }
