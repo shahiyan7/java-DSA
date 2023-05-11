@@ -11,7 +11,7 @@ public class CeilingProblem {
     }
     static  int ceilingNumber(int[] arr,int target){
         int start=0;
-        int ans=1000;
+        int ans=arr[arr.length-1];
         int end= arr.length-1;
         while (start<=end){
             int mid=start+(end-start)/2;
