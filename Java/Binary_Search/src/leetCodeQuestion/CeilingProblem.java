@@ -1,6 +1,7 @@
 package leetCodeQuestion;
 
 public class CeilingProblem {
+    
     public static void main(String[] args) {
         int[] arr={2,3,5,9,14,16,18};
         int target=6;
@@ -29,6 +30,7 @@ public class CeilingProblem {
                 end=mid-1;
             }
         }
+        
         return ans;
     }
 
