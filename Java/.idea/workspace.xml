@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b21146-6bb7-4100-a872-435c6ac5dad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear_search/src/LecQuestions/RichestCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
