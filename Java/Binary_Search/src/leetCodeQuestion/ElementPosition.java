@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class ElementPosition {
     public static void main(String[] args) {
-        int[] nums={5,7,7,7,7,8,8,10};
-        int target=7;
+        int[] nums={5,7,7,7,7,8,8,8,10};
+        int target=8;
         int[] ans=searchRange(nums,target);
         System.out.println(Arrays.toString(ans));
 
