@@ -2,12 +2,11 @@ package questions;
 
 import java.util.Scanner;
 
-public class pattern5 {
+public class pattern6 {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        int n= in.nextInt();
-//        pattern(n);
-        pattern2(n);
+        int n=in.nextInt();
+        pattern(n);
     }
     public static void pattern(int n){
         for (int i = 0; i < n; i++) {
@@ -23,10 +22,6 @@ public class pattern5 {
             System.out.println();
 
         }
-    }
-
-
-    public static void pattern2(int n){
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print(" ");
@@ -41,4 +36,6 @@ public class pattern5 {
 
         }
     }
-}
+
+    }
+
