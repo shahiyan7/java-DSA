@@ -1,5 +1,6 @@
 package leetcode;
 
+import java.math.BigInteger;
 import java.util.ArrayList;
 
 public class AddToArrayForm {
@@ -16,10 +17,10 @@ public class AddToArrayForm {
         for (int i = 0; i < num.length ; i++) {
             stringnumber=stringnumber+Integer.toString(num[i]);
         }
-        int finalnum=Integer.parseInt(stringnumber)+k;
+        long finalnum= Long.parseLong(stringnumber)+k;
          while (finalnum>0){
-             int digit=finalnum%10;
-             myAnswer.add(0,digit);
+             long digit=finalnum%10;
+             myAnswer.add(0, (int) digit);
              finalnum=finalnum/10;
          }
         return myAnswer;
