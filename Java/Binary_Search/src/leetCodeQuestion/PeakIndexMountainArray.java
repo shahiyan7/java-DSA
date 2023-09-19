@@ -2,7 +2,7 @@ package leetCodeQuestion;
 
 public class PeakIndexMountainArray {
     public static void main(String[] args) {
-        int[] arr={0,2,1,0};
+        int[] arr={2,3,5,6,7,5,4,3,1 };
         System.out.println(peakIndex(arr));
     }
     public  static int peakIndex(int[] arr){
